@@ -1,4 +1,4 @@
-\# Sistema de Controle Escolar
+# Sistema de Controle Escolar
 
 
 
@@ -10,28 +10,27 @@ e exportação de relatórios em arquivo de texto.
 
 
 
-\## Funcionalidades
+## Funcionalidades
 
 
 
-\- Cadastro de usuários com papéis distintos (aluno / professor)
+- Cadastro de usuários com papéis distintos (aluno / professor)
 
-\- Login com validação de credenciais
+- Login com validação de credenciais
 
-\- Cadastro, busca e remoção de alunos
+- Cadastro, busca e remoção de alunos
 
-\- Lançamento de notas (incluindo notas extras) e frequência
+- Lançamento de notas (incluindo notas extras) e frequência
 
-\- Cálculo automático de média e situação (aprovado / recuperação / reprovado)
+- Cálculo automático de média e situação (aprovado / recuperação / reprovado)
 
-\- Ordenação de alunos por média
+- Ordenação de alunos por média
 
-\- Exportação de boletins individuais e completos em .txt
+- Exportação de boletins individuais e completos em .txt
 
 
 
-\## Como executar
-
+## Como executar
 
 
 ```bash
@@ -42,7 +41,7 @@ python main.py
 
 
 
-\## Tecnologias
+## Tecnologias
 
 
 
@@ -50,11 +49,11 @@ Python 3 (biblioteca padrão apenas)
 
 
 
-\## Possíveis melhorias futuras
+## Possíveis melhorias futuras
 
 
 
-\- Persistência de dados em arquivo/banco (atualmente os dados são perdidos ao fechar o programa)
+- Persistência de dados em arquivo/banco (atualmente os dados são perdidos ao fechar o programa)
 
-\- Hash de senhas em vez de texto puro
+- Hash de senhas em vez de texto puro
 
